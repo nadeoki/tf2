@@ -5,6 +5,11 @@
 - including useful binds and optional mods (including for TFDB Gamemmode)
 - including [tfdb Snowball mod](https://github.com/flawfree/tfdbqol?tab=readme-ov-file)
 
+# Install
+download the latest [release](https://github.com/nadeoki/tf2/releases) and 
+place the zip into ``SteamLibrary\steamapps\common\Team Fortress 2\tf\custom``
+unzip. Done. You can delete the zip itself after
+
 ### Launch Options on Steam
 > +exec autoexec -console -novid -high -nosteamcontroller -noipx -nojoy +fps_max 300
 
