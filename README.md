@@ -10,10 +10,10 @@ download the latest [release](https://github.com/nadeoki/tf2/releases) and
 place the zip into ``SteamLibrary\steamapps\common\Team Fortress 2\tf\custom``
 unzip. Done. You can delete the zip itself after
 
-### Launch Options on Steam
+# Launch Options on Steam
 > +exec autoexec -console -novid -high -nosteamcontroller -noipx -nojoy +fps_max 300
 
-### DX Level (add to Launch options (ONCE) remove after opening and closing the game (ONCE)
+# DX Level (add to Launch options (ONCE) remove after opening and closing the game (ONCE)
 From JarateKing on the Steam forums:
 - ``-dxlevel 80`` = best option for fps, but not stable
 - ``-dxlevel 81`` = almost just as good for fps but a lot more stable
@@ -23,7 +23,7 @@ From JarateKing on the Steam forums:
 
 Note that dxlevel 80 and 81 remove warpaints / skins, as those are DX9 only. Personally I recommend 90 or 95 depending which works better for you, unless you're running a toaster and really need the extra fps from DX8.
 
-### Networking
+# Networking
 Type ``goodnet`` or ``badnet`` into the console
 to set execute configs specific to internet connection.
 If you are on a low speed, unstable connection, use ``badnet``
