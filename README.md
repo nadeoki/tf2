@@ -22,3 +22,7 @@ Note that dxlevel 80 and 81 remove warpaints / skins, as those are DX9 only. Per
 ![Preview](https://files.catbox.moe/3dnv76.png)
 ![Preview](https://files.catbox.moe/mi7ikj.png)
 ![Preview](https://files.catbox.moe/jz5svt.png)
+
+
+### Credits
+using resources from [Comanglia](https://www.teamfortress.tv/25328/comanglias-config-fps-guide), [cfg.tf](https://cfg.tf/), a guy called DtGR, [b4nny](https://steamcommunity.com/id/b4nny) and [tfdbqol](https://github.com/flawfree/tfdbqol?tab=readme-ov-file)
