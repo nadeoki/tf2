@@ -11,7 +11,7 @@ place the zip into ``SteamLibrary\steamapps\common\Team Fortress 2\tf\custom``
 unzip. Done. You can delete the zip itself after
 
 # Launch Options on Steam
-> +exec autoexec -console -novid -high -nosteamcontroller -noipx -nojoy +fps_max 300
+> -console -novid -no_texture_stream -mat_queue_mode 2 -nosteamcontroller -nojoy -noff -nohltv +fps_max 400
 
 extended guide on [steamforums](https://steamcommunity.com/sharedfiles/filedetails/?id=3153774281) by blood tribes
 
@@ -21,7 +21,7 @@ From JarateKing on the Steam forums:
 - ``-dxlevel 81`` = almost just as good for fps but a lot more stable
 - ``-dxlevel 90`` = less fps but higher quality graphics
 - ``-dxlevel 95`` = could help fps compared to 91, could hurt, depends on your gpu (the default also)
-- ``-dxlevel 98`` = highest quality but only a bit better than 90/95 with a lot less fps
+- ``-dxlevel 98`` = [Only exists for XBOX360](https://docs.comfig.app/9.6.1/tf2/misconceptions/), will fallback to ``-dxlevel 95`` on PC 
 
 Note that dxlevel 80 and 81 remove warpaints / skins, as those are DX9 only. Personally I recommend 90 or 95 depending which works better for you, unless you're running a toaster and really need the extra fps from DX8.
 
