@@ -12,6 +12,7 @@ unzip. Done. You can delete the zip itself after
 
 # Launch Options on Steam
 > +exec autoexec -console -novid -high -nosteamcontroller -noipx -nojoy +fps_max 300
+extended guide on [steamforums](https://steamcommunity.com/sharedfiles/filedetails/?id=3153774281) by blood tribes
 
 # DX Level (add to Launch options (ONCE) remove after opening and closing the game (ONCE)
 From JarateKing on the Steam forums:
