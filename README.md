@@ -11,7 +11,12 @@ place the zip into ``SteamLibrary\steamapps\common\Team Fortress 2\tf\custom``
 unzip. Done. You can delete the zip itself after
 
 # Launch Options on Steam
-> -console -novid -no_texture_stream -mat_queue_mode 2 -nosteamcontroller -nojoy -noff -nohltv +fps_max 400
+### Fullscreen Mode:
+> -console -novid -no_texture_stream -nosteamcontroller -nojoy -noff -nohltv +fps_max 500
+### Borderless Windowed Mode:
+> -noborder -window -console -novid -no_texture_stream -nosteamcontroller -nojoy -noff -nohltv +fps_max 500
+
+For Borderless to work, you might need to use ``-dxlevel 90``< and disable Fullscreen Optimizations on the tf.exe and tf_win64.exe inside of ``SteamLibrary\steamapps\common\Team Fortress 2``
 
 extended guide on [steamforums](https://steamcommunity.com/sharedfiles/filedetails/?id=3153774281) by blood tribes
 
