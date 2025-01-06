@@ -36,6 +36,14 @@ to set execute configs specific to internet connection.
 If you are on a low speed, unstable connection, use ``badnet``
 otherwise, it's preferred to use ``goodnet`` for better latency input and consistency
 
+# Dodgeball 128 Tick Networking
+use these for blw adv / saka's db / etc
+- ``cl_cmdrate 128``
+- ``cl_updaterate 128``
+- ``cl_interp 0.0078``
+- ``cl_interp_ratio 1``
+- ``rate 999999999``
+
 ![Preview](https://files.catbox.moe/3dnv76.png)
 ![Preview](https://files.catbox.moe/mi7ikj.png)
 ![Preview](https://files.catbox.moe/jz5svt.png)
