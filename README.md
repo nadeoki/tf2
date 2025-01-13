@@ -46,7 +46,7 @@ use these for blw adv / saka's db / etc
 - ``cl_updaterate 128``
 - ``cl_interp 0.0078``
 - ``cl_interp_ratio 1``
-- ``rate 999999999``
+- ``rate 999999``
 
 ![Preview](https://files.catbox.moe/3dnv76.png)
 ![Preview](https://files.catbox.moe/mi7ikj.png)
