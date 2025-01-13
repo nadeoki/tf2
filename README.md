@@ -54,4 +54,4 @@ use these for blw adv / saka's db / etc
 
 
 ### Credits
-using resources from [Comanglia](https://www.teamfortress.tv/25328/comanglias-config-fps-guide), [cfg.tf](https://cfg.tf/), a guy called DtGR, [hbivnm's crosshair script](https://github.com/hbivnm) [b4nny](https://steamcommunity.com/id/b4nny), [JarateKing](https://github.com/JarateKing) and [tfdbqol](https://github.com/flawfree/tfdbqol?tab=readme-ov-file)
+using resources from [Comanglia](https://www.teamfortress.tv/25328/comanglias-config-fps-guide), [cfg.tf](https://cfg.tf/), a guy called DtGR, [hbivnm's crosshair script](https://github.com/hbivnm), [b4nny](https://steamcommunity.com/id/b4nny), [JarateKing](https://github.com/JarateKing) and [tfdbqol](https://github.com/flawfree/tfdbqol?tab=readme-ov-file)
