@@ -32,7 +32,7 @@ Note that dxlevel 80 and 81 remove warpaints / skins, as those are DX9 only. Per
 
 # Crosshair
 Using my config enables custom crosshairs. By default it uses a quake 3 crosshair.
-If you want to return to the default ones, check inside crosshair.cfg for instructions
+If you want to return to the default or check out others, use [this](https://github.com/hbivnm/Venom-Crosshairs) tool.
 
 # Networking
 Type ``goodnet`` or ``badnet`` into the console
