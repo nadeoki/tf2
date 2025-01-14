@@ -5,12 +5,12 @@
 - including useful binds and optional mods (including for TFDB Gamemmode)
 - including [tfdb Snowball mod](https://github.com/flawfree/tfdbqol?tab=readme-ov-file)
 
-# Install
+## Install
 - download the latest [release](https://github.com/nadeoki/tf2/releases) and 
 - place the zip into ``SteamLibrary\steamapps\common\Team Fortress 2\tf\custom``
 - unzip. Done. You can delete the zip itself after
 
-# Launch Options on Steam
+## Launch Options on Steam
 ### Fullscreen Mode:
 > -console -novid -no_texture_stream -nosteamcontroller -nojoy -noff -nohltv +fps_max 500
 ### Borderless Windowed Mode:
@@ -20,7 +20,7 @@ For Borderless to work, you might need to use ``-dxlevel 90``< and disable Fulls
 
 extended guide on [steamforums](https://steamcommunity.com/sharedfiles/filedetails/?id=3153774281) by blood tribes
 
-# DX Level (add to Launch options (ONCE) remove after opening and closing the game (ONCE)
+## DX Level (add to Launch options (ONCE) remove after opening and closing the game (ONCE)
 From JarateKing on the Steam forums:
 - ``-dxlevel 80`` = best option for fps, but not stable
 - ``-dxlevel 81`` = almost just as good for fps but a lot more stable
@@ -30,17 +30,17 @@ From JarateKing on the Steam forums:
 
 Note that dxlevel 80 and 81 remove warpaints / skins, as those are DX9 only. Personally I recommend 90 or 95 depending which works better for you, unless you're running a toaster and really need the extra fps from DX8.
 
-# Crosshair
+## Crosshair
 Using my config enables custom crosshairs. By default it uses a quake 3 crosshair.
 If you want to return to the default or check out others, use [this](https://github.com/hbivnm/Venom-Crosshairs) tool.
 
-# Networking
+## Networking
 Type ``goodnet`` or ``badnet`` into the console
 to set execute configs specific to internet connection.
 If you are on a low speed, unstable connection, use ``badnet``
 otherwise, it's preferred to use ``goodnet`` for better latency input and consistency
 
-# Dodgeball 128 Tick Networking
+## Dodgeball 128 Tick Networking
 use these for blw adv / saka's db / etc
 - ``cl_cmdrate 128``
 - ``cl_updaterate 128``
