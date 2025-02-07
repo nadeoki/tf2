@@ -35,13 +35,15 @@ Note that dxlevel 80 and 81 remove warpaints / skins, as those are DX9 only. Per
 If you want to use custom crosshairs, check out [this](https://github.com/hbivnm/Venom-Crosshairs) tool.
 
 #### Networking
-Type ``goodnet`` or ``badnet`` into the console
-to set execute configs specific to internet connection.
-If you are on a low speed, unstable connection, use ``badnet``
-otherwise, it's preferred to use ``goodnet`` for better latency input and consistency
+Type ``66tick`` or ``128tick`` into the console
+to set execute configs specific to server tick rate.
+on dodgeball servers that allow 1ms lerp, it is recommended to
+type ``tfdb``.
+Note that these neccesitate that you actually comment all three of them in 
+the autoexec.cfg it uses 128tick by default
 
 #### Dodgeball 128 Tick Networking
-use these for blw adv / saka's db / etc
+for blw adv / saka's db / etc
 - ``cl_cmdrate 128``
 - ``cl_updaterate 128``
 - ``cl_interp 0.0078``
