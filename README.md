@@ -32,8 +32,7 @@ From JarateKing on the Steam forums:
 Note that dxlevel 80 and 81 remove warpaints / skins, as those are DX9 only. Personally I recommend 90 or 95 depending which works better for you, unless you're running a toaster and really need the extra fps from DX8.
 
 #### Crosshair
-Using my config enables custom crosshairs. By default it uses a quake 3 crosshair.
-If you want to return to the default or check out others, use [this](https://github.com/hbivnm/Venom-Crosshairs) tool.
+If you want to use custom crosshairs, check out [this](https://github.com/hbivnm/Venom-Crosshairs) tool.
 
 #### Networking
 Type ``goodnet`` or ``badnet`` into the console
