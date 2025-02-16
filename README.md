@@ -52,7 +52,6 @@ for blw adv / saka's db / etc
 
 ![Preview](https://files.catbox.moe/3dnv76.png)
 ![Preview](https://files.catbox.moe/mi7ikj.png)
-![Preview](https://files.catbox.moe/jz5svt.png)
 
 
 ### Credits
