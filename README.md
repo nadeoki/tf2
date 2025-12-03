@@ -43,12 +43,8 @@ Note that these neccesitate that you actually comment all three of them in
 the autoexec.cfg it uses 128tick by default
 
 #### Dodgeball 128 Tick Networking
-for blw adv / saka's db / etc
-- ``cl_cmdrate 128``
-- ``cl_updaterate 128``
-- ``cl_interp 0.0078``
-- ``cl_interp_ratio 1``
-- ``rate 999999``
+for udl / blw adv / saka's db / etc
+I wrote an article on interpolation [here](https://udl.tf/forums/threads/24) that I suggest reading
 
 ![Preview](https://files.catbox.moe/3dnv76.png)
 ![Preview](https://files.catbox.moe/mi7ikj.png)
