@@ -1,4 +1,5 @@
-## Nadeoki's Config
+![Preview](https://i.ibb.co/C5bKNXmw/Untitled-1.webp)
+
 ## a TF2 config for high fps and optimizations
 - optimizing ancient default settings to modern requirements
 - removing visual fidelity for FPS gains, commented in gfx.cfg for customizations
