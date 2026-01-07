@@ -55,9 +55,10 @@ the autoexec.cfg it uses 128tick by default.
 for udl / blw adv / saka's db / etc
 I wrote an article on interpolation [here](https://udl.tf/forums/threads/24) that I suggest reading
 
-![Preview](https://files.catbox.moe/3dnv76.png)
-![Preview](https://files.catbox.moe/mi7ikj.png)
-
+![Preview](https://i.ibb.co/d4k7Yww6/0l5rd8.webp)
+![Preview](https://i.ibb.co/20gdjFC9/jcpgow.webp)
+![Preview](https://i.ibb.co/xtmgs7Kb/nknpeq.webp)
+![Preview](https://i.ibb.co/gQmbFVQ/vgolep.webp)
 
 ### Credits
 using resources from [Comanglia](https://www.teamfortress.tv/25328/comanglias-config-fps-guide), [cfg.tf](https://cfg.tf/), a guy called DtGR, [hbivnm's crosshair script](https://github.com/hbivnm), [b4nny](https://steamcommunity.com/id/b4nny), [JarateKing](https://github.com/JarateKing) and [tfdbqol](https://github.com/flawfree/tfdbqol?tab=readme-ov-file)
