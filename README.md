@@ -55,9 +55,9 @@ the autoexec.cfg it uses 128tick by default.
 for udl / blw adv / saka's db / etc
 I wrote an article on interpolation [here](https://udl.tf/forums/threads/24) that I suggest reading
 
+![Preview](https://i.ibb.co/xtmgs7Kb/nknpeq.webp)
 ![Preview](https://i.ibb.co/d4k7Yww6/0l5rd8.webp)
 ![Preview](https://i.ibb.co/20gdjFC9/jcpgow.webp)
-![Preview](https://i.ibb.co/xtmgs7Kb/nknpeq.webp)
 ![Preview](https://i.ibb.co/gQmbFVQ/vgolep.webp)
 
 ### Credits
