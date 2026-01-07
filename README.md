@@ -1,34 +1,35 @@
 ## Nadeoki's Config
-### a TF2 config for high fps and optimizations
+## a TF2 config for high fps and optimizations
 - optimizing ancient default settings to modern requirements
 - removing visual fidelity for FPS gains, commented in gfx.cfg for customizations
 - including useful binds and optional mods (for TFDB Gamemmode)
 - including [tfdb Snowball mod](https://github.com/flawfree/tfdbqol?tab=readme-ov-file)
   
-### Install
-- download the latest [release](https://github.com/nadeoki/tf2/releases) and 
+## Install
+- download the latest [release](https://github.com/nadeoki/tf2/releases) choose the version appropriate to your PC
 - place the zip into ``SteamLibrary\steamapps\common\Team Fortress 2\tf\custom``
-- unzip. Done. You can delete the zip itself after
+- unzip.
+- make sure to check the included readme file :)
 
-### Uninstall
+## Uninstall
 - Simply delete the Zip file
 - I recommend resetting all parameters to default before using a different config and before installing mine.
 [How to Reset TF2](https://steamcommunity.com/sharedfiles/filedetails/?id=3087128168)
 
-### Launch Options
-##### Fullscreen Mode:
+## Launch Options
+#### Fullscreen Mode:
 > -console -novid -no_texture_stream -noforcemspd -nosteamcontroller -nojoy -noff -nohltv
-##### Borderless Windowed Mode:
+#### Borderless Windowed Mode:
 > -noborder -window -console -novid -no_texture_stream -noforcemspd -nosteamcontroller -nojoy -noff -nohltv
 
 <ins>For Borderless to work, you might need to use ``-dxlevel 90``< and disable Fullscreen Optimizations on the tf.exe and tf_win64.exe inside of ``SteamLibrary\steamapps\common\Team Fortress 2``
 
 extended guide on [steamforums](https://steamcommunity.com/sharedfiles/filedetails/?id=3153774281) by blood tribes
 
-### FPS
+## FPS
 I recommend limiting your Framerate on nvidia control panel with the "max fps" parameter. Personally found it to be more stable than limiting through Ingame or launch option FPS cap.
 
-### DX Level 
+## DX Level 
 (add to Launch options (ONCE) remove after opening and closing the game (ONCE)
 From JarateKing on the Steam forums:
 - ``-dxlevel 80`` = best option for fps, but not stable
@@ -39,10 +40,10 @@ From JarateKing on the Steam forums:
 
 Note that dxlevel 80 and 81 remove warpaints / skins, as those are DX9 only. Personally I recommend 90 or 95 depending which works better for you, unless you're running a toaster and really need the extra fps from DX8.
 
-### Crosshair
+## Crosshair
 If you want to use custom crosshairs, check out [this](https://github.com/hbivnm/Venom-Crosshairs) tool.
 
-### Networking
+## Networking
 Type ``66tick`` or ``128tick`` into the console
 to set execute configs specific to server tick rate.
 on dodgeball servers that allow 1ms lerp, it is recommended to
